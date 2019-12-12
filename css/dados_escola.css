@@ -7,6 +7,18 @@ box-sizing: border-box;
 font-family: 'GFS Didot', serif;
 }
 
+#buttom{
+background: rgba(0, 0, 0, 0.7)
+ 
+
+}
+
+#buttom:hover{
+background: #F28A02;
+ 
+
+}
+
 nav,ul{
 list-style: none;
 transition: 3s;
